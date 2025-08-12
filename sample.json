@@ -1,0 +1,58 @@
+{ 
+ "sender": { 
+ "company": "Bouwmaat Haarlem XL", 
+ "address": "A. Hofmanweg 3-A", 
+"postcode":"2031 BH", 
+"city":"Haarlem", 
+"country":"Nederland", 
+ "phone": "023-5530330", 
+ "fax": "023-5530349", 
+ "email": "haarlem@bouwmaat.nl", 
+ "vat_number": "NqqwqwL004293940B01", 
+ "company_number": "30055682" 
+ }, 
+ "recipient" : { 
+    
+ "company": "Rubo-ingenieurs", 
+ "attention_to": "van der Veldt", 
+ "address": "Oosterstraat 9b", 
+"postcode":"2042 VE", 
+"city":"Zandvoort", 
+"country":"Nederland", 
+"debtor_number":"0005200448" 
+ }, 
+ "sender_country": "NL", 
+ "invoice" : { 
+ "date": "10-06-2024 11:05:46", 
+ "invoice_number": "1018876", 
+"order_number": "123242e3e", 
+ "paid": true,
+ "payment_method": "Pin - MAES kaart", 
+. "tax": BTW || VAT, 
+ "total_amount_incl_vat": 129.14, 
+ "subtotal_amount_excl_vat": 106.73, 
+ "vat_amount_item": 22.41, 
+ "items" : [ 
+ { 
+ "article_number": "0000771032", 
+ "name": "Siniat Gipsplaat Stuc 60x200cm 9,5 mm", 
+ "quantity": 16, 
+ "item_unit_price": 3.62, 
+ " item_amount_excl_vat ": 57.92, 
+ "item_vat_percentage": "21%", 
+ " item_amount_incl_vat ":70.08, 
+"item_vat_amount":12.16 
+ }, 
+ { 
+ "article_number": "0000049942", 
+ "name": "Bocht PVC lijmmof/spie wanddikte 3,2 mm Ø 75 mm 45° KOMO-keur", 
+ "quantity": 2, 
+ "item_unit_price": 4.04, 
+ " item_amount_excl_vat ": 12.02, 
+ "item_vat_percentage": "21%", 
+ " item_amount_incl_vat ":14.54, 
+"item_vat_amount":2.52 
+ }
+ ] 
+ }
+}

@@ -1,0 +1,17 @@
+# Ignore all .log files
+*.log
+
+# Ignore all node_modules directories
+node_modules/
+venv/
+# Ignore specific file
+secrets.txt
+
+# Ignore all files in the temp directory
+temp/
+
+# Ignore all .env files
+*.env
+
+# Ignore MacOS system files
+.DS_Store
